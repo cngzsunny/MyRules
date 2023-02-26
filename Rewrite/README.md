@@ -5,6 +5,7 @@
 StartUp.conf  
 Ximalaya.conf  
 Weibo.conf  
+WeChat.conf  
 TestFlightDownload.conf  
 AllInOne.conf  
 boxjs.rewrite.quanx  
