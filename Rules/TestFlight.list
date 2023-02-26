@@ -1,0 +1,13 @@
+# 基于 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TestFlight/TestFlight.list
+# TestFlght服务站点，建议使用Direct策略
+
+# NAME: TestFlight
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-02-15 23:43:29
+# HOST: 2
+# HOST-KEYWORD: 1
+# TOTAL: 3
+HOST,beta.apple.com,TestFlight
+HOST,testflight.apple.com,TestFlight
+HOST-KEYWORD,testflight,TestFlight
