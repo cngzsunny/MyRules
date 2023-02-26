@@ -2,14 +2,16 @@
 
 建议在Quantumult X的重写规则编排顺序如下：
 
-StartUp.conf
-Ximalaya.conf
-Weibo.conf
-TestFlightDownload.conf
-AllInOne.conf
-boxjs.rewrite.quanx
+StartUp.conf  
+Ximalaya.conf  
+Weibo.conf  
+TestFlightDownload.conf  
+AllInOne.conf  
+boxjs.rewrite.quanx  
 
 
 
 参考内容并鸣谢一下：
-ddgksf2013 [https://github.com/ddgksf2013]
+ddgksf2013 [https://github.com/ddgksf2013]  
+blackmatrix7 [https://github.com/blackmatrix7]  
+NobyDa [https://github.com/NobyDa]  
