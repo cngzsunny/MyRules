@@ -15,7 +15,7 @@ Global.list
 ASN.Telegram.list  
 ASN.China.list  
 
-参考内容并鸣谢一下：
+参考内容并鸣谢一下：  
 VirgilClyne [https://github.com/VirgilClyne]  
 blackmatrix7 [https://github.com/blackmatrix7]  
 fmz200 [https://github.com/fmz200]  
