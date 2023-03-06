@@ -2,7 +2,6 @@
 # Telegram ASN，建议使用代理策略
 
 # 🌐 ASN for Telegram Messenger Inc
-
 PROCESS-NAME,org.telegram.messenger
 DOMAIN-SUFFIX,comments.app // @CommentsBot
 DOMAIN-SUFFIX,t.me
